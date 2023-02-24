@@ -5,4 +5,4 @@ Evidencia de Ejecución: https://drive.google.com/file/d/1hI1HuqBsE8_YKZ_GACHmxe
 
 ---
 
-Diagrama de Clases: 
+Diagrama de Clases: https://drive.google.com/file/d/1u7Kl8qFpAVlEDK0jmF0Tf_IfPSrgYK8c/view?usp=sharing
